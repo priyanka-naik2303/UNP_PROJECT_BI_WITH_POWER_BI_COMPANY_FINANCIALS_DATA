@@ -5,4 +5,5 @@ A Power BI company financials report provides an interactive and visual represen
 Additionally, the Financial Ratios & Performance Dashboard includes critical metrics like current ratio, debt-to-equity ratio, return on equity (ROE), and earnings per share (EPS) to assess liquidity, solvency, and profitability. A Cash Flow Dashboard helps track operating, investing, and financing cash flows, providing insights into cash generation and usage. Power BI’s forecasting and AI-driven analytics can predict future financial performance, enabling strategic planning. With interactive filters and drill-down features, stakeholders can analyze financial data in-depth, identify trends, and make data-driven business decisions efficiently.
 
 PROJECT FILE LINK:https://drive.google.com/file/d/1QIobjaqtX5vpByw4i3zDSI2asKcjdixo/view?usp=drive_link
+
 PROJECT PDF FILE LINK:https://drive.google.com/file/d/1YKRo_wuWwTxoZLmk_5BEl7uNDJ0uSNjU/view?usp=sharing
